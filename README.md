@@ -1,6 +1,7 @@
 ## Golang基础
 
 > 来源Bilibili IT营 大地老师学习视频：[点我传送](https://www.bilibili.com/video/BV14T4y1g7h9)
+> 笔记由gitee "陌溪" 整理（便于查看我导入到github），并做更新：[点我传送](https://gitee.com/moxi159753/LearningNotes/tree/master/Golang)
 
 - [Go语言的安装](./Golang基础/0_Go语言的安装)
 - [Go语言发展简史](./Golang基础/1_Go语言发展简史)
